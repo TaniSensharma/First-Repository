@@ -9,6 +9,6 @@ setup(
     author_email='sayantani.sensharma@fau.de',
     packages=['snowflake'],
     install_requires=[
-        'numpy', 'turtle'
+        'numpy', 'turtles'
     ],
 )
