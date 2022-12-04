@@ -45,7 +45,7 @@ def snowflake_branch(size, myTurtle):
         myTurtle.backward(size / 3)
         myTurtle.left(45)
     # myTurtle.right(90)
-    myTurtle.forward(size)
+    # myTurtle.forward(size)
 
 
 if __name__ == "__main__":
